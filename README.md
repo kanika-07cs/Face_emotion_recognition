@@ -64,8 +64,8 @@ Face-Emotion-Recognition
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Selvaganapathy-k/Face-Emotion-Recognition
-cd Face-Emotion-Recognition
+git clone https://github.com/kanika-07cs/Face_emotion_recognition
+cd Face_emotion_recognition
 ```
 
 ---
