@@ -111,7 +111,7 @@ streamlit run app.py
 ## 🌐 Live Application
 
 🔗 **Streamlit App URL:**
-👉 [https://selvaganapathy-k-face-emotion-recognition-app-vw73hv.streamlit.app/](https://selvaganapathy-k-face-emotion-recognition-app-vw73hv.streamlit.app/)
+👉
 
 ---
 
@@ -148,13 +148,6 @@ streamlit run app.py
 * Virtual environment folders (`venv`, `myvenv`) are not included.
 * All required dependencies are listed in `requirements.txt`.
 * This project is for **educational purposes only**.
-
----
-
-## ✍️ Author
-
-**Selvaganapathy K**
-Computer Science Student
 
 ---
 
