@@ -110,7 +110,7 @@ streamlit run app.py
 
 ## 🌐 Live Application
 
-🔗 **Streamlit App URL:**
+🔗 **Streamlit App URL:** [Face Emotion Recognition_kanika](https://faceemotionrecognition-123.streamlit.app/)
 👉
 
 ---
