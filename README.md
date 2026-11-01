@@ -151,13 +151,6 @@ streamlit run app.py
 
 ---
 
-## ✍️ Author
-
-**Selvaganapathy K**
-Computer Science Student
-
----
-
 ## 🏁 Conclusion
 
 This project demonstrates an end-to-end **Face Emotion Recognition system**, combining deep learning, computer vision, and web deployment to deliver real-time emotion prediction.
