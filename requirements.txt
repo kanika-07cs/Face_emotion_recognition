@@ -1,4 +1,6 @@
 streamlit
-tensorflow
 numpy
 opencv-python-headless
+tensorflow
+Pillow
+h5py
