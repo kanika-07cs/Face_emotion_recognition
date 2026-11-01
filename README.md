@@ -111,7 +111,7 @@ streamlit run app.py
 ## 🌐 Live Application
 
 🔗 **Streamlit App URL:**
-👉 [https://selvaganapathy-k-face-emotion-recognition-app-vw73hv.streamlit.app/](https://selvaganapathy-k-face-emotion-recognition-app-vw73hv.streamlit.app/)
+👉
 
 ---
 
